@@ -21,5 +21,12 @@ namespace SAA___Bryant
         {
 
         }
+
+        private void linkLabelSignUp_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            FormSignUp SignUp = new FormSignUp();
+            SignUp.Show();
+            this.Hide();
+        }
     }
 }

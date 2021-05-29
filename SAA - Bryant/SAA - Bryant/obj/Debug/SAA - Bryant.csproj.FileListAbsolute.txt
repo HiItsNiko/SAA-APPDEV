@@ -1,0 +1,11 @@
+D:\Dokumen Kuliah\Semester 2\Application Development\HiItsNiko\SAA-APPDEV\SAA - Bryant\SAA - Bryant\bin\Debug\SAA - Bryant.exe.config
+D:\Dokumen Kuliah\Semester 2\Application Development\HiItsNiko\SAA-APPDEV\SAA - Bryant\SAA - Bryant\bin\Debug\SAA - Bryant.exe
+D:\Dokumen Kuliah\Semester 2\Application Development\HiItsNiko\SAA-APPDEV\SAA - Bryant\SAA - Bryant\bin\Debug\SAA - Bryant.pdb
+D:\Dokumen Kuliah\Semester 2\Application Development\HiItsNiko\SAA-APPDEV\SAA - Bryant\SAA - Bryant\obj\Debug\SAA - Bryant.csprojAssemblyReference.cache
+D:\Dokumen Kuliah\Semester 2\Application Development\HiItsNiko\SAA-APPDEV\SAA - Bryant\SAA - Bryant\obj\Debug\SAA___Bryant.Form1.resources
+D:\Dokumen Kuliah\Semester 2\Application Development\HiItsNiko\SAA-APPDEV\SAA - Bryant\SAA - Bryant\obj\Debug\SAA___Bryant.FormSignUp.resources
+D:\Dokumen Kuliah\Semester 2\Application Development\HiItsNiko\SAA-APPDEV\SAA - Bryant\SAA - Bryant\obj\Debug\SAA___Bryant.Properties.Resources.resources
+D:\Dokumen Kuliah\Semester 2\Application Development\HiItsNiko\SAA-APPDEV\SAA - Bryant\SAA - Bryant\obj\Debug\SAA - Bryant.csproj.GenerateResource.cache
+D:\Dokumen Kuliah\Semester 2\Application Development\HiItsNiko\SAA-APPDEV\SAA - Bryant\SAA - Bryant\obj\Debug\SAA - Bryant.csproj.CoreCompileInputs.cache
+D:\Dokumen Kuliah\Semester 2\Application Development\HiItsNiko\SAA-APPDEV\SAA - Bryant\SAA - Bryant\obj\Debug\SAA - Bryant.exe
+D:\Dokumen Kuliah\Semester 2\Application Development\HiItsNiko\SAA-APPDEV\SAA - Bryant\SAA - Bryant\obj\Debug\SAA - Bryant.pdb
