@@ -1,5 +1,4 @@
-﻿
-namespace SAA___Bryant
+﻿namespace FormHome
 {
     partial class Form1
     {
@@ -29,40 +28,13 @@ namespace SAA___Bryant
         /// </summary>
         private void InitializeComponent()
         {
-            this.linkLabelSignUp = new System.Windows.Forms.LinkLabel();
-            this.SuspendLayout();
-            // 
-            // linkLabelSignUp
-            // 
-            this.linkLabelSignUp.AutoSize = true;
-            this.linkLabelSignUp.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.linkLabelSignUp.LinkColor = System.Drawing.Color.Black;
-            this.linkLabelSignUp.Location = new System.Drawing.Point(327, 39);
-            this.linkLabelSignUp.Name = "linkLabelSignUp";
-            this.linkLabelSignUp.Size = new System.Drawing.Size(75, 20);
-            this.linkLabelSignUp.TabIndex = 0;
-            this.linkLabelSignUp.TabStop = true;
-            this.linkLabelSignUp.Text = "SIGN UP";
-            this.linkLabelSignUp.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.linkLabelSignUp_LinkClicked);
-            // 
-            // Form1
-            // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.components = new System.ComponentModel.Container();
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(446, 523);
-            this.Controls.Add(this.linkLabelSignUp);
-            this.Name = "Form1";
-            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.ClientSize = new System.Drawing.Size(800, 450);
             this.Text = "Form1";
-            this.Load += new System.EventHandler(this.Form1_Load);
-            this.ResumeLayout(false);
-            this.PerformLayout();
-
         }
 
         #endregion
-
-        private System.Windows.Forms.LinkLabel linkLabelSignUp;
     }
 }
 
