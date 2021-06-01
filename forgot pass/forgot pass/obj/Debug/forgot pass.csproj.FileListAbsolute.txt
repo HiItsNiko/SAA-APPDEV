@@ -8,3 +8,18 @@ C:\Users\erick\source\repos\HiItsNiko\SAA-APPDEV\forgot pass\forgot pass\obj\Deb
 C:\Users\erick\source\repos\HiItsNiko\SAA-APPDEV\forgot pass\forgot pass\obj\Debug\forgot pass.csproj.CoreCompileInputs.cache
 C:\Users\erick\source\repos\HiItsNiko\SAA-APPDEV\forgot pass\forgot pass\obj\Debug\forgot pass.exe
 C:\Users\erick\source\repos\HiItsNiko\SAA-APPDEV\forgot pass\forgot pass\obj\Debug\forgot pass.pdb
+C:\Users\Laptop\Source\Repos\HiItsNiko\SAA-APPDEV1\forgot pass\forgot pass\bin\Debug\forgot pass.exe.config
+C:\Users\Laptop\Source\Repos\HiItsNiko\SAA-APPDEV1\forgot pass\forgot pass\bin\Debug\forgot pass.exe
+C:\Users\Laptop\Source\Repos\HiItsNiko\SAA-APPDEV1\forgot pass\forgot pass\bin\Debug\forgot pass.pdb
+C:\Users\Laptop\Source\Repos\HiItsNiko\SAA-APPDEV1\forgot pass\forgot pass\obj\Debug\forgot pass.csprojAssemblyReference.cache
+C:\Users\Laptop\Source\Repos\HiItsNiko\SAA-APPDEV1\forgot pass\forgot pass\obj\Debug\forgot_pass.Forminfo.resources
+C:\Users\Laptop\Source\Repos\HiItsNiko\SAA-APPDEV1\forgot pass\forgot pass\obj\Debug\forgot_pass.FormLandingPage.resources
+C:\Users\Laptop\Source\Repos\HiItsNiko\SAA-APPDEV1\forgot pass\forgot pass\obj\Debug\forgot_pass.MyInfo.resources
+C:\Users\Laptop\Source\Repos\HiItsNiko\SAA-APPDEV1\forgot pass\forgot pass\obj\Debug\forgot_pass.Order_Complete.resources
+C:\Users\Laptop\Source\Repos\HiItsNiko\SAA-APPDEV1\forgot pass\forgot pass\obj\Debug\forgot_pass.product_offer.resources
+C:\Users\Laptop\Source\Repos\HiItsNiko\SAA-APPDEV1\forgot pass\forgot pass\obj\Debug\forgot_pass.Properties.Resources.resources
+C:\Users\Laptop\Source\Repos\HiItsNiko\SAA-APPDEV1\forgot pass\forgot pass\obj\Debug\forgot_pass.Purchase_summary.resources
+C:\Users\Laptop\Source\Repos\HiItsNiko\SAA-APPDEV1\forgot pass\forgot pass\obj\Debug\forgot pass.csproj.GenerateResource.cache
+C:\Users\Laptop\Source\Repos\HiItsNiko\SAA-APPDEV1\forgot pass\forgot pass\obj\Debug\forgot pass.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Source\Repos\HiItsNiko\SAA-APPDEV1\forgot pass\forgot pass\obj\Debug\forgot pass.exe
+C:\Users\Laptop\Source\Repos\HiItsNiko\SAA-APPDEV1\forgot pass\forgot pass\obj\Debug\forgot pass.pdb
