@@ -47,12 +47,13 @@ namespace Project_SAA
             this.groupBoxHeader.AutoSize = true;
             this.groupBoxHeader.BackColor = System.Drawing.Color.DarkSlateBlue;
             this.groupBoxHeader.Controls.Add(this.buttonSignup);
-            this.groupBoxHeader.Controls.Add(this.buttonLogin);
             this.groupBoxHeader.Controls.Add(this.linkLabelContact);
             this.groupBoxHeader.Controls.Add(this.linkLabelHome);
-            this.groupBoxHeader.Location = new System.Drawing.Point(-2, -6);
+            this.groupBoxHeader.Controls.Add(this.buttonLogin);
+            this.groupBoxHeader.Dock = System.Windows.Forms.DockStyle.Top;
+            this.groupBoxHeader.Location = new System.Drawing.Point(0, 0);
             this.groupBoxHeader.Name = "groupBoxHeader";
-            this.groupBoxHeader.Size = new System.Drawing.Size(2000, 100);
+            this.groupBoxHeader.Size = new System.Drawing.Size(799, 79);
             this.groupBoxHeader.TabIndex = 0;
             this.groupBoxHeader.TabStop = false;
             // 
@@ -64,12 +65,13 @@ namespace Project_SAA
             this.buttonSignup.Cursor = System.Windows.Forms.Cursors.Hand;
             this.buttonSignup.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.buttonSignup.ForeColor = System.Drawing.Color.White;
-            this.buttonSignup.Location = new System.Drawing.Point(685, 34);
+            this.buttonSignup.Location = new System.Drawing.Point(685, 19);
             this.buttonSignup.Name = "buttonSignup";
             this.buttonSignup.Size = new System.Drawing.Size(102, 41);
             this.buttonSignup.TabIndex = 3;
             this.buttonSignup.Text = "Sign Up";
             this.buttonSignup.UseVisualStyleBackColor = false;
+            this.buttonSignup.Click += new System.EventHandler(this.buttonSignup_Click);
             // 
             // buttonLogin
             // 
@@ -79,7 +81,7 @@ namespace Project_SAA
             this.buttonLogin.Cursor = System.Windows.Forms.Cursors.Hand;
             this.buttonLogin.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.buttonLogin.ForeColor = System.Drawing.Color.White;
-            this.buttonLogin.Location = new System.Drawing.Point(555, 34);
+            this.buttonLogin.Location = new System.Drawing.Point(558, 19);
             this.buttonLogin.Name = "buttonLogin";
             this.buttonLogin.Size = new System.Drawing.Size(102, 41);
             this.buttonLogin.TabIndex = 2;
@@ -95,7 +97,7 @@ namespace Project_SAA
             this.linkLabelContact.DisabledLinkColor = System.Drawing.Color.Transparent;
             this.linkLabelContact.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.linkLabelContact.LinkColor = System.Drawing.Color.White;
-            this.linkLabelContact.Location = new System.Drawing.Point(211, 40);
+            this.linkLabelContact.Location = new System.Drawing.Point(174, 25);
             this.linkLabelContact.Name = "linkLabelContact";
             this.linkLabelContact.Size = new System.Drawing.Size(93, 25);
             this.linkLabelContact.TabIndex = 1;
@@ -110,7 +112,7 @@ namespace Project_SAA
             this.linkLabelHome.DisabledLinkColor = System.Drawing.Color.Transparent;
             this.linkLabelHome.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.linkLabelHome.LinkColor = System.Drawing.Color.White;
-            this.linkLabelHome.Location = new System.Drawing.Point(80, 40);
+            this.linkLabelHome.Location = new System.Drawing.Point(35, 25);
             this.linkLabelHome.Name = "linkLabelHome";
             this.linkLabelHome.Size = new System.Drawing.Size(72, 25);
             this.linkLabelHome.TabIndex = 0;
@@ -165,7 +167,6 @@ namespace Project_SAA
             this.Controls.Add(this.groupBoxHeader);
             this.Name = "FormLandpage";
             this.Text = "Landing Page";
-            this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.groupBoxHeader.ResumeLayout(false);
             this.groupBoxHeader.PerformLayout();
             this.panelWelcome.ResumeLayout(false);

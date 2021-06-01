@@ -26,5 +26,10 @@ namespace Project_SAA
             login.Show();
             this.Hide();
         }
+
+        private void buttonSignup_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
