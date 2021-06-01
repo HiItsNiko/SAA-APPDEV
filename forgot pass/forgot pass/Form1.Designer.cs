@@ -1,6 +1,6 @@
 ﻿namespace forgot_pass
 {
-    partial class Form1
+    partial class Forminfo
     {
         /// <summary>
         /// Required designer variable.
@@ -72,7 +72,7 @@
             this.buttonlogin.Text = " LOGIN";
             this.buttonlogin.UseVisualStyleBackColor = true;
             // 
-            // Form1
+            // Forminfo
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -81,7 +81,7 @@
             this.Controls.Add(this.labelcontact);
             this.Controls.Add(this.labelhome);
             this.Controls.Add(this.linkLabelforgot);
-            this.Name = "Form1";
+            this.Name = "Forminfo";
             this.Text = "Form1";
             this.ResumeLayout(false);
             this.PerformLayout();

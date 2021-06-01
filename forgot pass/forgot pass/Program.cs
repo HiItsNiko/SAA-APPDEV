@@ -16,7 +16,7 @@ namespace forgot_pass
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new Forminfo());
         }
     }
 }

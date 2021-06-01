@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace forgot_pass
 {
-    public partial class Form1 : Form
+    public partial class Forminfo : Form
     {
-        public Form1()
+        public Forminfo()
         {
             InitializeComponent();
         }
