@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\FormHome",
+    "\\FormHome\\FormHome"
   ],
+  "SelectedNode": "\\FormHome\\FormHome.sln",
   "PreviewInSolutionExplorer": false
 }

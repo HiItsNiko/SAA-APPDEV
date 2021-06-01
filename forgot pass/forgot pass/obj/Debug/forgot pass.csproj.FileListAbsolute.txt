@@ -1,0 +1,10 @@
+C:\Users\erick\source\repos\HiItsNiko\SAA-APPDEV\forgot pass\forgot pass\bin\Debug\forgot pass.exe.config
+C:\Users\erick\source\repos\HiItsNiko\SAA-APPDEV\forgot pass\forgot pass\bin\Debug\forgot pass.exe
+C:\Users\erick\source\repos\HiItsNiko\SAA-APPDEV\forgot pass\forgot pass\bin\Debug\forgot pass.pdb
+C:\Users\erick\source\repos\HiItsNiko\SAA-APPDEV\forgot pass\forgot pass\obj\Debug\forgot pass.csprojAssemblyReference.cache
+C:\Users\erick\source\repos\HiItsNiko\SAA-APPDEV\forgot pass\forgot pass\obj\Debug\forgot_pass.Form1.resources
+C:\Users\erick\source\repos\HiItsNiko\SAA-APPDEV\forgot pass\forgot pass\obj\Debug\forgot_pass.Properties.Resources.resources
+C:\Users\erick\source\repos\HiItsNiko\SAA-APPDEV\forgot pass\forgot pass\obj\Debug\forgot pass.csproj.GenerateResource.cache
+C:\Users\erick\source\repos\HiItsNiko\SAA-APPDEV\forgot pass\forgot pass\obj\Debug\forgot pass.csproj.CoreCompileInputs.cache
+C:\Users\erick\source\repos\HiItsNiko\SAA-APPDEV\forgot pass\forgot pass\obj\Debug\forgot pass.exe
+C:\Users\erick\source\repos\HiItsNiko\SAA-APPDEV\forgot pass\forgot pass\obj\Debug\forgot pass.pdb
